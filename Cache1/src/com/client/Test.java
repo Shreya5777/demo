@@ -21,8 +21,8 @@ public class Test {
 		Student s4=session1.get(Student.class,1);
 		
 		Student s5=session1.get(Student.class,1);
-		
-		
+		System.out.println("shreya add push pull project");
+	
 		
 	}
 		
